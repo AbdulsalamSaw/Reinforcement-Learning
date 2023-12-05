@@ -1,4 +1,4 @@
-# reinforcement_learning
+# Reinforcement Learning with Q-learning for Taxi-v3
 # Q-learning for Taxi-v3
 
 This repository contains Python code that implements the Q-learning algorithm to train an agent to navigate the Taxi-v3 environment from OpenAI Gym.
